@@ -1,0 +1,1 @@
+add_library (util MyClass.cpp MyClass.h)
